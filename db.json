@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "message": "Ваш код для входа: 123456. Не передавайте его никому.",
+      "recipient": "+7 999 123-45-67",
+      "deviceId": "test_device_001"
+    }
+  ]
+  "profile": {
+    "name": "typicode"
+  }
+}
